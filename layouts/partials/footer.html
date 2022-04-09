@@ -1,0 +1,187 @@
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    <img src="/vaselogo.png" width="75px" style="margin: auto auto" />
+    {{- if .Site.Copyright }}
+    <span>{{ .Site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+    {{- end }}
+</footer>
+{{- end }}
+
+{{- if (not .Site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+{{- end }}
+
+{{- partial "extend_footer.html" . }}
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+
+{{- if (not .Site.Params.disableScrollToTop) }}
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+{{- end }}
+
+{{- if (not .Site.Params.disableThemeToggle) }}
+<script>
+    let sun = document.getElementById("sun");
+    let to_moon_1 = document.getElementById("to-moon-1");
+    let to_moon_2 = document.getElementById("to-moon-2");
+    let to_moon_3 = document.getElementById("to-moon-3");
+    let to_moon_4 = document.getElementById("to-moon-4");
+    let to_sun_1 = document.getElementById("to-sun-1");
+    let to_sun_2 = document.getElementById("to-sun-2");
+    let to_sun_3 = document.getElementById("to-sun-3");
+    let to_sun_4 = document.getElementById("to-sun-4");
+    let moon = document.getElementById("moon");
+    let intervalTime = 90;
+
+    to_moon_1.style.display = "none"
+    to_moon_2.style.display = "none"
+    to_moon_3.style.display = "none"
+    to_moon_4.style.display = "none"
+    to_sun_1.style.display = "none"
+    to_sun_2.style.display = "none"
+    to_sun_3.style.display = "none"
+    to_sun_4.style.display = "none"
+
+    if (document.body.className.includes("dark")) {
+        sun.style.display = "none";
+    } else {
+        moon.style.display = "none";
+    }
+
+    function toggleHidden(x) {
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            setTimeout(toggleHidden, intervalTime, moon);
+            setTimeout(toggleHidden, intervalTime * 2, to_moon_1);
+            setTimeout(toggleHidden, intervalTime * 3, to_moon_1);
+            setTimeout(toggleHidden, intervalTime * 3, to_moon_2);
+            setTimeout(toggleHidden, intervalTime * 4, to_moon_2);
+            setTimeout(toggleHidden, intervalTime * 4, to_moon_3);
+            setTimeout(toggleHidden, intervalTime * 5, to_moon_3);
+            setTimeout(toggleHidden, intervalTime * 5, to_moon_4);
+            setTimeout(toggleHidden, intervalTime * 6, to_moon_4);
+            setTimeout(toggleHidden, intervalTime * 6, sun);
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            setTimeout(toggleHidden, 45, sun);
+            setTimeout(toggleHidden, intervalTime * 2, to_sun_1);
+            setTimeout(toggleHidden, intervalTime * 3, to_sun_1);
+            setTimeout(toggleHidden, intervalTime * 3, to_sun_2);
+            setTimeout(toggleHidden, intervalTime * 4, to_sun_2);
+            setTimeout(toggleHidden, intervalTime * 4, to_sun_3);
+            setTimeout(toggleHidden, intervalTime * 5, to_sun_3);
+            setTimeout(toggleHidden, intervalTime * 5, to_sun_4);
+            setTimeout(toggleHidden, intervalTime * 6, to_sun_4);
+            setTimeout(toggleHidden, intervalTime * 6, moon);
+
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+{{- end }}
+
+{{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons")) }}
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = '{{- i18n "code_copy" | default "copy" }}';
+
+        function copyingDone() {
+            copybutton.innerText = '{{- i18n "code_copied" | default "copied!" }}';
+            setTimeout(() => {
+                copybutton.innerText = '{{- i18n "code_copy" | default "copy" }}';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            // td containing LineNos
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            // table containing LineNos and code
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            // code blocks not having highlight as parent class
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+{{- end }}
