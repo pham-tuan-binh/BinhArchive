@@ -8,7 +8,11 @@ html {
     -webkit-tap-highlight-color: transparent;
     overflow-y: scroll;
 }
-
+img[src$='#center']
+{
+    display: block;
+    margin: auto;
+}
 a,
 button,
 body,

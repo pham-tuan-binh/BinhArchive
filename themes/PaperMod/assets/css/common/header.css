@@ -45,14 +45,14 @@ button#theme-toggle {
     margin: auto 4px;
 }
 
-/* body.dark #sun {
+body.dark #sun {
     vertical-align: middle;
     display: none;
 }
 
 body:not(.dark) #moon {
     display: none;
-} */
+}
 
 #menu {
     list-style: none;

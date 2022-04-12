@@ -79,28 +79,19 @@
     let moon = document.getElementById("moon");
     let intervalTime = 90;
 
-    to_moon_1.style.display = "none"
-    to_moon_2.style.display = "none"
-    to_moon_3.style.display = "none"
-    to_moon_4.style.display = "none"
-    to_sun_1.style.display = "none"
-    to_sun_2.style.display = "none"
-    to_sun_3.style.display = "none"
-    to_sun_4.style.display = "none"
-
     if (document.body.className.includes("dark")) {
         sun.style.display = "none";
     } else {
         moon.style.display = "none";
     }
 
-    function toggleHidden(x) {
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
+    // function toggleHidden(x) {
+    //     if (x.style.display === "none") {
+    //         x.style.display = "block";
+    //     } else {
+    //         x.style.display = "none";
+    //     }
+    // }
 
     document.getElementById("theme-toggle").addEventListener("click", () => {
         if (document.body.className.includes("dark")) {

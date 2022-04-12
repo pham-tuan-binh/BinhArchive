@@ -8,9 +8,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
+enableEmoji: true
+enableInlineShortcodes: true
 publishdir: docs
-
-googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
@@ -57,27 +57,13 @@ params:
     profileMode:
         enabled: false # needs to be explicitly set
 
-    # home-info mode
-    homeInfoParams:
-        Title: "Welcome to Binh's Archive 👋"
-        Content: >
-          - Hi, I'm **Binh**, a tech geek from Hai Phong, Viet Nam. 
-          
-          - I write things in my free time to share my knowledge. 
-          
-          - If you like my posts, feel free to reach out to me through the below mediums.
-
     socialIcons:
         - name: facebook
           url: "https://www.facebook.com/binhpham0105"
         - name: instagram
-          url: "https://www.instagram.com/binh_pham_tuan/"
+          url: "https://www.instagram.com/pham_tuan_binh/"
         - name: github
           url: "https://github.com/pham-tuan-binh"
-
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
 
     cover:
         linkFullImages: true
@@ -92,26 +78,64 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-menu:
-    main:
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 1
-        - identifier: archives
-          name: Archives
-          url: /archives/
-          weight: 10
-        - identifier: categories
-          name: Categories
-          url: /categories/
-          weight: 20
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 30
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 40
-        
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        homeInfoParams:
+            Title: "Welcome to Binh's Archive 👋"
+            Content: >
+              - Hi, I'm **Binh**, a tech geek from Hai Phong, Viet Nam. 
+              
+              - I write things in my free time to share my knowledge. 
+              
+              - If you like my posts, feel free to reach out to me through the below mediums.
+        menu:
+            main:
+                - identifier: about
+                  name: About
+                  url: /about/
+                  weight: 10
+                - identifier: categories
+                  name: Categories
+                  url: /categories/
+                  weight: 20
+                - identifier: tags
+                  name: Tags
+                  url: /tags/
+                  weight: 30
+                - identifier: search
+                  name: Search
+                  url: /search/
+                  weight: 40
+
+    vi:
+        languageName: ":vi:"
+        languageAltTitle: Vietnamese
+        weight: 2
+        homeInfoParams:
+            Title: "Chào mừng đến Binh's Archive 👋"
+            Content: >
+              - Mình tên là **Bình** 
+              
+              - Mình thích viết trong thời gian rảnh và đây là kênh chia sẻ của mình.
+              
+              - Nếu các bạn muốn liên hệ với mình, cứ thoải mái bắt chuyện qua những kênh bên dưới nhé.
+        menu:
+            main:
+                - identifier: about
+                  name: Giới thiệu
+                  url: /about/
+                  weight: 10
+                - identifier: categories
+                  name: Danh mục
+                  url: /categories/
+                  weight: 20
+                - identifier: tags
+                  name: Thẻ
+                  url: /tags/
+                  weight: 30
+                - identifier: search
+                  name: Tìm kiếm
+                  url: /search/
+                  weight: 40
