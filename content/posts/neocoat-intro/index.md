@@ -5,7 +5,7 @@ date: "2022-03-01"
 description: "A pixel-art display you don't know you need."
 tags: ["Firmware", "Neocoat", "8-bit", "Pet Projects"]
 categories: ["NeoCoat"]
-draft: true
+draft: false
 cover:
     image: "*Intro*" # image path/url
     alt: "NeoCoat" # alt text
@@ -16,7 +16,7 @@ cover:
 This is the beginning of a series where I share my DIY projects and how to do them. Through this series, I want to motivate and inspire students to be a part of the Maker Culture. Every episode will be about one of my projects, in which you can learn more about what I do, how I do, and what you can do.
 
 The project presented here is called **NeoCoat**. It's a Pixel Display I made 2 years ago.
-![NeoCoat Logo](images/logo.png)
+{{<figure src="/images/Logo.png" >}}
 # NeoCoat's Inspration
 At the end of 2020, after wandering online, I was struck by the beautiful work by Jeremy Williams, [Game Frame](https://www.theverge.com/2014/3/6/5475236/game-frame-classic-pixel-art-kickstarter).
 
@@ -54,7 +54,7 @@ To control the display, I used an **ESP8266 NodeMCU**. This is a popular powerfu
 After that, I started building the firmware to run the LEDs. To fully explain how the firmware works, this article would be too long and boring. Avoiding that pitfall, I would only introduce the firmware's structures and technologies. If you're a programmer hoping to understand NeoCoat's inner-workings, you're welcomed at [my Github Repo](https://github.com/pham-tuan-binh/neo-coat).
 {{<figure src="images/V1App.png" title="Web Interface" caption="The web interface followed Neomorphism style.">}}
 The firmware uses **Arduino** framework and contains 4 main components:
-1. **Drawable**: A set of APIs that help you address each LED and set their color with HSV. This is made on top of **FastLED** library.
+1. **Drawable**: A set of APIs that help you address each LED and set their color with HSV. This is made to work with **FastLED** library.
 2. **Animation**: A set of APIs that help you process MP4s and turn them into animations.
 3. **Snake**: Snake's Game logic made by Emanuel Knopfel, implemented in my system by me.
 4. **Web Server**: The web interface and REST APIs for controlling the display.
@@ -85,4 +85,4 @@ After this, I only had to stick a NodeMCU inside the case and wire it up. This w
 
 The story of NeoCoat ended there... until it was revived again for my blog.
 
-[**The birth of NeoCoat (2)**](http://localhost:1313/posts/neocoat-2/)
+[**The birth of NeoCoat (2)**](/posts/neocoat-2/)
