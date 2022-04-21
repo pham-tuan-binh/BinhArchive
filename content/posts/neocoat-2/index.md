@@ -12,7 +12,7 @@ cover:
     relative: true   # when using page bundles set this to true
     hidden: false
 ---
-If you haven't read [**The History of NeoCoat**](), you can read it here.
+If you haven't read [**The History of NeoCoat**](/posts/neocoat-intro/), you can read it here.
 
 As I learned more and more, I realized the key to learning was sharing. If I kept everything I've done for myself, I can't grow as a Maker or as anything. To truly break that limit, I'm motivated to share my projects and opinions as articles so they can live on forever in an archive.
 
