@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Binh&#39;s Archive</title>
-    <link>https://binhph.am/vi/</link>
-    <description>Recent content on Binh&#39;s Archive</description>
+    <title>Lưu bút on Binh&#39;s Archive</title>
+    <link>https://binhph.am/vi/tags/l%C6%B0u-b%C3%BAt/</link>
+    <description>Recent content in Lưu bút on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/vi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/vi/tags/l%C6%B0u-b%C3%BAt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memory Catalog: Lưu giữ kí ức cùng nhau</title>
       <link>https://binhph.am/vi/posts/memory-catalog/</link>
@@ -14,17 +14,6 @@
       <guid>https://binhph.am/vi/posts/memory-catalog/</guid>
       <description>Một chiếc sổ lưu bút nhỏ mình làm.</description>
     </item>
-    
-    
-    <item>
-      <title>Giới thiệu</title>
-      <link>https://binhph.am/vi/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://binhph.am/vi/about/</guid>
-      <description>Giới thiệu bản thân</description>
-    </item>
-    
     
   </channel>
 </rss>
