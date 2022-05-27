@@ -31,7 +31,7 @@ Ngoài ra, bạn mình cũng có ý tưởng về việc **gắn ảnh** với c
 
 Dựa trên ý tưởng này, thay vì sử dụng các giải pháp tốn tiền, mình đã làm nên một chiếc form riêng của mình và gọi nó là **Memory Catalog**.
 
-![Logo Memory Catalog](images/Logo.png)
+![Logo Memory Catalog](images/logo.png)
 
 # Memory Catalog là gì?
 
