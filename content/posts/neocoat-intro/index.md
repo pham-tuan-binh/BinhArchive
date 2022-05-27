@@ -16,7 +16,7 @@ cover:
 This is the beginning of a series where I share my DIY projects and how to do them. Through this series, I want to motivate and inspire students to be a part of the Maker Culture. Every episode will be about one of my projects, in which you can learn more about what I do, how I do, and what you can do.
 
 The project presented here is called **NeoCoat**. It's a Pixel Display I made 2 years ago.
-{{<figure src="/images/logo.png" >}}
+{{<figure src="/images/project-logo.png" >}}
 # NeoCoat's Inspration
 At the end of 2020, after wandering online, I was struck by the beautiful work by Jeremy Williams, [Game Frame](https://www.theverge.com/2014/3/6/5475236/game-frame-classic-pixel-art-kickstarter).
 
