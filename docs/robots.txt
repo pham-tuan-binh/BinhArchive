@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://binhph.am/sitemap.xml
