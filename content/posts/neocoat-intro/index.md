@@ -7,7 +7,7 @@ tags: ["Firmware", "Neocoat", "8-bit", "Pet Projects"]
 categories: ["NeoCoat"]
 draft: false
 cover:
-    image: "*Intro*" # image path/url
+    image: "/posts/neocoat-intro/images/Intro.png" # image path/url
     alt: "NeoCoat" # alt text
     relative: true   # when using page bundles set this to true
     hidden: false
