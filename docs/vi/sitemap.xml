@@ -36,9 +36,29 @@
   </url><url>
     <loc>https://binhph.am/vi/categories/memory-catalog/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/categories/memory-catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/categories/memory-catalog/"
+                />
   </url><url>
     <loc>https://binhph.am/vi/posts/memory-catalog/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/posts/memory-catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/posts/memory-catalog/"
+                />
   </url><url>
     <loc>https://binhph.am/vi/posts/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>

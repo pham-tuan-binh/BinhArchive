@@ -13,129 +13,137 @@ enableInlineShortcodes: true
 publishdir: docs
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON 
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 taxonomies:
-    category: categories
-    tag: tags
+  category: categories
+  tag: tags
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Binh's Archive
-    description: "A blog on the development process of various projects"
-    keywords: [Blog, Portfolio]
-    author: Binh Pham
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Binh's Archive
+  description: "A blog on the development process of various projects"
+  keywords: [Blog, Portfolio]
+  author: Binh Pham
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: false
-    hidemeta: false
-    hideSummary: true
-    showtoc: true
-    tocopen: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  showtoc: true
+  tocopen: false
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
 
-    # profile-mode
-    profileMode:
-        enabled: false # needs to be explicitly set
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
 
-    socialIcons:
-        - name: facebook
-          url: "https://www.facebook.com/binhpham0105"
-        - name: instagram
-          url: "https://www.instagram.com/pham_tuan_binh/"
-        - name: github
-          url: "https://github.com/pham-tuan-binh"
+  socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/binhpham0105"
+    - name: instagram
+      url: "https://www.instagram.com/pham_tuan_binh/"
+    - name: github
+      url: "https://github.com/pham-tuan-binh"
 
-    cover:
-        linkFullImages: true
+  cover:
+    linkFullImages: true
 
-    # for search
-    # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        homeInfoParams:
-            Title: "Welcome to Binh's Archive 👋"
-            Content: >
-              - Hi, I'm **Binh**, a tech geek from Hai Phong, Viet Nam. 
-              
-              - I write things in my free time to share my knowledge. 
-              
-              - If you like my posts, feel free to reach out to me through the below mediums.
-        menu:
-            main:
-                - identifier: about
-                  name: About
-                  url: /about/
-                  weight: 10
-                - identifier: categories
-                  name: Categories
-                  url: /categories/
-                  weight: 20
-                - identifier: tags
-                  name: Tags
-                  url: /tags/
-                  weight: 30
-                - identifier: search
-                  name: Search
-                  url: /search/
-                  weight: 40
+  en:
+    languageName: "English"
+    weight: 1
+    homeInfoParams:
+      Title: "Welcome to Binh's Archive 👋"
+      Content: >
+        - Hi, I'm **Binh**, a FullStack IoT Developer in Budapest, Hungary 🇭🇺.
 
-    vi:
-        languageName: ":vi:"
-        languageAltTitle: Vietnamese
-        weight: 2
-        homeInfoParams:
-            Title: "Chào mừng đến Binh's Archive 👋"
-            Content: >
-              - Mình tên là **Bình** 
-              
-              - Mình thích viết trong thời gian rảnh và đây là kênh chia sẻ của mình.
-              
-              - Nếu các bạn muốn liên hệ với mình, cứ thoải mái bắt chuyện qua những kênh bên dưới nhé.
-        menu:
-            main:
-                - identifier: about
-                  name: Giới thiệu
-                  url: /about/
-                  weight: 10
-                - identifier: categories
-                  name: Danh mục
-                  url: /categories/
-                  weight: 20
-                - identifier: tags
-                  name: Thẻ
-                  url: /tags/
-                  weight: 30
-                - identifier: search
-                  name: Tìm kiếm
-                  url: /search/
-                  weight: 40
+        - I write things in my free time to share my knowledge. 
+
+        - If you like my posts, feel free to reach out to me through the below mediums.
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 10
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 30
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 40
+        - identifier: memory
+          name: Memory Catalog
+          url: https://memory.binhph.am
+          weight: 50
+
+  vi:
+    languageName: ":vi:"
+    languageAltTitle: Vietnamese
+    weight: 2
+    homeInfoParams:
+      Title: "Chào mừng đến Binh's Archive 👋"
+      Content: >
+        - Mình tên là **Bình**. Mình là một lập trình viên IoT FullStack tại Budapest, Hungary 🇭🇺.
+
+        - Đây là một trang Archive những dự án cá nhân của mình.
+
+        - Nếu các bạn muốn liên hệ với mình, cứ thoải mái bắt chuyện qua những kênh bên dưới nhé.
+    menu:
+      main:
+        - identifier: about
+          name: Giới thiệu
+          url: /about/
+          weight: 10
+        - identifier: categories
+          name: Danh mục
+          url: /categories/
+          weight: 20
+        - identifier: tags
+          name: Thẻ
+          url: /tags/
+          weight: 30
+        - identifier: search
+          name: Tìm kiếm
+          url: /search/
+          weight: 40
+        - identifier: memory
+          name: Memory Catalog
+          url: https://memory.binhph.am
+          weight: 50

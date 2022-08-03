@@ -2,7 +2,7 @@
 author: "Phạm Tuấn Bình"
 title: "Memory Catalog: Lưu giữ kí ức cùng nhau"
 date: "2022-05-27"
-description: "Một chiếc sổ lưu bút nhỏ mình làm."
+description: "Một chiếc sổ lưu bút nhỏ mình làm"
 tags: ["Lưu bút", "DIY"]
 categories: ["Memory Catalog"]
 draft: false

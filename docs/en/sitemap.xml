@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://binhph.am/tags/8-bit/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://binhph.am/categories/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -30,6 +27,67 @@
                 hreflang="en"
                 href="https://binhph.am/categories/"
                 />
+  </url><url>
+    <loc>https://binhph.am/tags/hackathon/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/categories/memory-catalog/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/categories/memory-catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/categories/memory-catalog/"
+                />
+  </url><url>
+    <loc>https://binhph.am/posts/memory-catalog/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/posts/memory-catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/posts/memory-catalog/"
+                />
+  </url><url>
+    <loc>https://binhph.am/tags/polaroid/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/posts/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/posts/"
+                />
+  </url><url>
+    <loc>https://binhph.am/tags/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://binhph.am/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binhph.am/tags/"
+                />
+  </url><url>
+    <loc>https://binhph.am/tags/8-bit/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/tags/firmware/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
@@ -45,32 +103,6 @@
   </url><url>
     <loc>https://binhph.am/tags/pet-projects/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/posts/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://binhph.am/vi/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://binhph.am/posts/"
-                />
-  </url><url>
-    <loc>https://binhph.am/tags/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://binhph.am/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://binhph.am/tags/"
-                />
   </url><url>
     <loc>https://binhph.am/posts/neocoat-intro/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>

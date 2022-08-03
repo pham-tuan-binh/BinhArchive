@@ -5,7 +5,16 @@
     <link>https://binhph.am/posts/</link>
     <description>Recent content in Posts on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory Catalog: Store memories as Polaroid</title>
+      <link>https://binhph.am/posts/memory-catalog/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/memory-catalog/</guid>
+      <description>Online Memory Archive</description>
+    </item>
+    
     <item>
       <title>NeoCoat (2): The new NeoCoat</title>
       <link>https://binhph.am/posts/neocoat-2/</link>
