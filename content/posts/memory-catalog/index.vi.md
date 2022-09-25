@@ -7,9 +7,9 @@ tags: ["Lưu bút", "DIY"]
 categories: ["Memory Catalog"]
 draft: false
 cover:
-    image: "https://lh3.google.com/u/1/d/1P7HOJMgOa0T3nrcSqXOW9fWns3lprrXB" # image path/url
+    image: "/posts/memory-catalog/images/cover.jpeg" # image path/url
     alt: "Memory Catalog" # alt text
-    relative: false   # when using page bundles set this to true
+    relative: true   # when using page bundles set this to true
     hidden: false
 ---
 # Lời tri ân

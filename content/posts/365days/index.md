@@ -7,9 +7,9 @@ tags: ["Svelte", "Photography"]
 categories: ["365 Days"]
 draft: false
 cover:
-    image: "https://lh3.google.com/u/1/d/1hQ_EHaBZzjBwj7LwA5_ee4FtZbF9fTfa" # image path/url
+    image: "/posts/365days/images/365days-banner.jpeg" # image path/url
     alt: "365 Days" # alt text
-    relative: false   # when using page bundles set this to true
+    relative: true   # when using page bundles set this to true
     hidden: false
 ---
 
@@ -22,7 +22,7 @@ But for a long time, I have stopped posting photos to focus on my beloved projec
 
 Therefore, to unleash all the photos I've taken over the last three years and in the upcoming period, I've created a photo album called **"365 Days"**.
 
-![Banner](https://lh3.google.com/u/1/d/1hQ_EHaBZzjBwj7LwA5_ee4FtZbF9fTfa)
+{{<figure src="/images/365days-banner.jpeg" >}}
 
 # What is it and what is special about it?
 
