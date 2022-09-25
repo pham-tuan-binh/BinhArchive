@@ -7,9 +7,9 @@ tags: ["Polaroid", "Hackathon"]
 categories: ["Memory Catalog"]
 draft: false
 cover:
-    image: "/posts/memory-catalog/images/cover.jpeg" # image path/url
+    image: "https://lh3.google.com/u/1/d/1P7HOJMgOa0T3nrcSqXOW9fWns3lprrXB" # image path/url
     alt: "Memory Catalog" # alt text
-    relative: true   # when using page bundles set this to true
+    relative: false   # when using page bundles set this to true
     hidden: false
 ---
 # Thank you note
