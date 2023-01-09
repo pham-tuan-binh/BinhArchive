@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://binhph.am/posts/365days/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/categories/365-days/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -22,7 +16,7 @@
                 />
   </url><url>
     <loc>https://binhph.am/categories/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -34,11 +28,20 @@
                 href="https://binhph.am/categories/"
                 />
   </url><url>
-    <loc>https://binhph.am/tags/photography/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <loc>https://binhph.am/tags/creative-coding/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/design/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/categories/design/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/posts/legos/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/posts/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -50,11 +53,8 @@
                 href="https://binhph.am/posts/"
                 />
   </url><url>
-    <loc>https://binhph.am/tags/svelte/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/tags/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -65,6 +65,18 @@
                 hreflang="en"
                 href="https://binhph.am/tags/"
                 />
+  </url><url>
+    <loc>https://binhph.am/posts/365days/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/categories/365-days/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/photography/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/svelte/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/tags/hackathon/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>

@@ -5,7 +5,16 @@
     <link>https://binhph.am/posts/</link>
     <description>Recent content in Posts on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LEGO: Creative Coding</title>
+      <link>https://binhph.am/posts/legos/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/legos/</guid>
+      <description>Using Canvas-sketch to create digital art</description>
+    </item>
+    
     <item>
       <title>&#34;365 Days&#34; Photo Album</title>
       <link>https://binhph.am/posts/365days/</link>

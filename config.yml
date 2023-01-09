@@ -108,10 +108,6 @@ languages:
           name: Search
           url: /search/
           weight: 40
-        - identifier: memory
-          name: Memory Catalog
-          url: https://memory.binhph.am
-          weight: 50
 
   vi:
     languageName: ":vi:"
@@ -143,7 +139,3 @@ languages:
           name: Tìm kiếm
           url: /search/
           weight: 40
-        - identifier: memory
-          name: Memory Catalog
-          url: https://memory.binhph.am
-          weight: 50
