@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Creative Coding on Binh&#39;s Archive</title>
+    <link>https://binhph.am/categories/creative-coding/</link>
+    <description>Recent content in Creative Coding on Binh&#39;s Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/categories/creative-coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Square(): Creative Coding</title>
+      <link>https://binhph.am/posts/square/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/square/</guid>
+      <description>Immersive Art Experience</description>
+    </item>
+    
+    <item>
+      <title>LEGO: Creative Coding</title>
+      <link>https://binhph.am/posts/legos/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/legos/</guid>
+      <description>Using Canvas-sketch to create digital art</description>
+    </item>
+    
+  </channel>
+</rss>

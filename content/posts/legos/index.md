@@ -4,7 +4,7 @@ title: "LEGO: Creative Coding"
 date: "2023-01-09"
 description: "Using Canvas-sketch to create digital art"
 tags: ["Design", "Creative Coding"]
-categories: ["Design"]
+categories: ["Creative Coding"]
 draft: false
 cover:
   image: "/posts/legos/images/banner.png" # image path/url
