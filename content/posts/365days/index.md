@@ -1,20 +1,21 @@
 ---
 author: "Binh Pham"
-title: "\"365 Days\" Photo Album"
+title: '"365 Days" Photo Album'
 date: "2022-09-25"
 description: "Online Photo Exhibition"
 tags: ["Svelte", "Photography"]
 categories: ["365 Days"]
 draft: false
 cover:
-    image: "/posts/365days/images/365days-banner.jpeg" # image path/url
-    alt: "365 Days" # alt text
-    relative: true   # when using page bundles set this to true
-    hidden: false
+  image: "/posts/365days/images/365days-banner.jpeg" # image path/url
+  alt: "365 Days" # alt text
+  relative: true # when using page bundles set this to true
+  hidden: false
 ---
 
 # What is "365 Days"?
-If you are a old follower of mine, you will know that, apart from a developer, I'm also a photographer. 
+
+If you are a old follower of mine, you will know that, apart from a developer, I'm also a photographer.
 
 {{<figure src="/images/photographer.PNG" >}}
 
@@ -26,7 +27,7 @@ Therefore, to unleash all the photos I've taken over the last three years and in
 
 # What is it and what is special about it?
 
-In the beginning of this project, **“365 Days”** was simply a photo album on [Instagram]("https://www.instagram.com/365d_album/"), where I would post a photo every day.
+In the beginning of this project, **“365 Days”** was simply a photo album on [Instagram](https://www.instagram.com/365d_album/), where I would post a photo every day.
 
 {{<figure src="/images/instagram.PNG" >}}
 
@@ -34,40 +35,46 @@ However, as the artist behind this album is also a developer, he said to him sel
 
 So what is it? You might ask.
 
-> **“365 Days”** is an online experience, where you will discover the artistic works of **Binh Pham** in a carousel. 
+> **“365 Days”** is an online experience, where you will discover the artistic works of **Binh Pham** in a carousel.
 
-> There will be a new photo uploaded everyday and each day is a different story, a different location, a different person. 
+> There will be a new photo uploaded everyday and each day is a different story, a different location, a different person.
 
 > Some day will just have a title, some will have an entire story for you to discover.
 
-All of this is hosted on [a sub page of Binh’s Archive]("https://365days.binhph.am/").
+All of this is hosted on [a sub page of Binh’s Archive](https://365days.binhph.am/).
 
 # Where can I see "365 Days"?
 
 {{<figure src="/images/platforms.PNG" title="Social platforms of \"365 Days\"" caption="Instagram (Left) and Web Exhibition (Right)">}}
 
-Presently, you can check **"365 Days"** on **2** platforms: [Instagram]("https://www.instagram.com/365d_album/") and [Web Exhibition]("https://365days.binhph.am/").
+Presently, you can check **"365 Days"** on **2** platforms: [Instagram](https://www.instagram.com/365d_album/) and [Web Exhibition](https://365days.binhph.am/).
 
 I reccomend taking a look at the Instagram page before heading on to the Web Exhibition. You can find how to use the website there, as well as how to find an **easter egg** on the website.
 
 {{<figure src="/images/website.PNG" title="Online Exhibition" caption="Only available on phones and small tablets.">}}
+
 # How to make a website like "365 Days"?
+
 If you are a developer already, you can check the [Github for this project](https://github.com/pham-tuan-binh/365days).
 [![Github](images/github.png)](https://github.com/pham-tuan-binh/365days)
-If you are not, I'll explain what you will need to learn before understanding the source code of **"365 Days"**. 
+If you are not, I'll explain what you will need to learn before understanding the source code of **"365 Days"**.
 
 And remember, I will only show you the keywords and a few core components, not the whole explaination.
 ![Meme](https://memegenerator.net/img/instances/59570640.jpg#center)
+
 ## The components
-Behind every project, there is some thing called a [tech stack]("https://heap.io/topics/what-is-a-tech-stack"). Basically, there will be a database, a frontend, a backend along with APIs framework.
+
+Behind every project, there is some thing called a [tech stack](https://heap.io/topics/what-is-a-tech-stack). Basically, there will be a database, a frontend, a backend along with APIs framework.
 
 In this project, I used a tech stack called **SINE**:
+
 - The Frontend: [Svelte](https://svelte.dev/)
 - The Backend: [NodeJS](https://nodejs.org/en/)
 - The API: [ExpressJS](https://expressjs.com/)
 - The Database: [Instagram](https://developers.facebook.com/docs/instagram/)
 
 ## The files structure
+
 To understand the inner workings of **"365 Days"**, you will first need to know more about the files structure of the [source code](https://github.com/pham-tuan-binh/365days).
 
 ```
@@ -76,7 +83,9 @@ To understand the inner workings of **"365 Days"**, you will first need to know 
     |- src: Svelte source
     |- server: NodeJS and ExpressJS functions
 ```
+
 ## Server-side Code
+
 **The Server** has a function for retreiving photos from Instagram using their GraphQL API. Here is its implementation.
 
 ```
@@ -149,13 +158,15 @@ app.use(function (err, req, res, next) {
 
 app.get("/feed", instaHandle);
 ```
+
 ## Facebook Developers Platform
 
 If you truly understand the above section, one question will pop: **What is the access token and how to get it?**.
 
-To get this access token, you need to get on the [Meta for Developers]("https://developers.facebook.com/docs/instagram/") and get yourself an account as well as a project. Through this, you can generate a token to use their GraphQL API.
+To get this access token, you need to get on the [Meta for Developers](https://developers.facebook.com/docs/instagram/) and get yourself an account as well as a project. Through this, you can generate a token to use their GraphQL API.
 
 {{<figure src="/images/meta.PNG" >}}
+
 ## Frontend Code
 
 On **the frontend**, everything is stored using only one page. As the components mounts or the website renders, the website will call the aboved API using the below functions.
@@ -187,7 +198,7 @@ onMount(async () => {
 	});
 ```
 
-And to implement the left-click/right-click and easter egg for the website, I used a counter. 
+And to implement the left-click/right-click and easter egg for the website, I used a counter.
 
 Also, the pictures are lazy-loaded, that means the website only get 20 pictures per request, so there is also a function to check if the website has loaded all pictures.
 
@@ -205,7 +216,7 @@ async function leftClickHandle() {
         }
         return;
     }
-    if (currentState === 0) {   
+    if (currentState === 0) {
         specialCounter++;
         if (specialCounter === 5) {
             currentState = -1;
@@ -244,7 +255,7 @@ async function rightClickHandle() {
     } else {
         currentState++;
     }
-}   
+}
 ```
 
 The rest is in the JSX or whatever equivalent of Svelt in the [source code](https://github.com/pham-tuan-binh/365days).
@@ -255,7 +266,7 @@ The rest is in the JSX or whatever equivalent of Svelt in the [source code](http
 
 If you have any questions regarding this prohject, please contact me at **binhpham@binhph.am**
 
-A funny thing about this project is that the total time I used to make it was **2 days**: **6 hours** for the coding and **the rest** for media and design... and I was drunk while I did it =)) 
+A funny thing about this project is that the total time I used to make it was **2 days**: **6 hours** for the coding and **the rest** for media and design... and I was drunk while I did it =))
 
 So I guess I have to pay my gratitude to Nikka Whisky for this project.
 
