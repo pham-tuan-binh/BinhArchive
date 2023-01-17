@@ -64,6 +64,8 @@ params:
       url: "https://www.instagram.com/pham_tuan_binh/"
     - name: github
       url: "https://github.com/pham-tuan-binh"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/pham-tuan-binh"
 
   cover:
     linkFullImages: true
