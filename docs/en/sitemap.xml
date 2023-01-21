@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://binhph.am/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -15,11 +15,11 @@
                 href="https://binhph.am/"
                 />
   </url><url>
-    <loc>https://binhph.am/tags/c&#43;&#43;/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <loc>https://binhph.am/posts/wrapped/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/categories/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -31,23 +31,14 @@
                 href="https://binhph.am/categories/"
                 />
   </url><url>
-    <loc>https://binhph.am/tags/creative-coding/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/categories/creative-coding/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/tags/design/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://binhph.am/tags/opencv/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/tags/openframework/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <loc>https://binhph.am/categories/design/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/posts/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -59,11 +50,8 @@
                 href="https://binhph.am/posts/"
                 />
   </url><url>
-    <loc>https://binhph.am/posts/square/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/tags/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -74,6 +62,30 @@
                 hreflang="en"
                 href="https://binhph.am/tags/"
                 />
+  </url><url>
+    <loc>https://binhph.am/tags/template/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/wrapped/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/creative-coding/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/categories/creative-coding/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/opencv/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/openframework/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/posts/square/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/posts/legos/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>

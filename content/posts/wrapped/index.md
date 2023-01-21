@@ -1,11 +1,10 @@
 ---
 author: "Binh Pham"
 title: "Binh's Wrapped"
-date: "2023-01-14"
+date: "2023-01-21"
 description: "2022 Binh's Wrapped: Spotify Edition"
 tags: ["Design", "Wrapped", "Template"]
 categories: ["Design"]
-draft: true
 cover:
   image: "/posts/wrapped/images/Banner.png" # image path/url
   alt: "Wrapped" # alt text
