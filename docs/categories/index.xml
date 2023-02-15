@@ -5,7 +5,16 @@
     <link>https://binhph.am/categories/</link>
     <description>Recent content in Categories on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Coding</title>
+      <link>https://binhph.am/categories/creative-coding/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/categories/creative-coding/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Certification</title>
       <link>https://binhph.am/categories/certification/</link>
@@ -21,15 +30,6 @@
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://binhph.am/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creative Coding</title>
-      <link>https://binhph.am/categories/creative-coding/</link>
-      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binhph.am/categories/creative-coding/</guid>
       <description></description>
     </item>
     

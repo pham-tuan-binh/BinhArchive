@@ -91,7 +91,7 @@ For practice tests, I devised a tactic I learn from AI/ML training. You see, hum
 We have 6 practice tests in the bundle, and what I like to do is to seperate it into 2/4 sections:
 
 - For the first 2 tests (test set), we do it **without any help or documentation**. This helps us assess our abilities after finishing the course and helps us improve our tactics.
-- For the next 4 tests (training set), we do it with help from **Amazon AWS docs and CodeBucket's cheatsheet**. For every question you don't know the answer, search for the keywords online. This helps boost your logical thingking and make you remember longer because you are actively finding for the answer. Don't leave behind any unanswered question.
+- For the next 4 tests (training set), we do it with help from **Amazon AWS docs and CodeBucket's cheatsheet**. For every question you don't know the answer, search for the keywords online. This helps boost your logical thinking and make you remember longer because you are actively finding for the answer. Don't leave behind any unanswered question.
 
 After taking the practice tests, **wait for 1-3 days**, it is for your brain to relax. Then **take the tests again**, this time without any help, just like the real tests. Through this process, you will find places you truly need improvements on.
 
