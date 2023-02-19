@@ -33,8 +33,12 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+    {{- partial "post_newsletter.html" .  }}
   </div>
   {{- end }}
+
+
+
 
   <footer class="post-footer">
     {{- if .Params.tags }}
