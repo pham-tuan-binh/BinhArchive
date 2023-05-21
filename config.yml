@@ -110,6 +110,10 @@ languages:
           name: Search
           url: /search/
           weight: 40
+        - identifier: portfolio
+          name: Portfolio
+          url: https://portfolio.binhph.am/
+          weight: 50
 
   vi:
     languageName: ":vi:"
@@ -141,3 +145,7 @@ languages:
           name: Tìm kiếm
           url: /search/
           weight: 40
+        - identifier: portfolio
+          name: Portfolio
+          url: https://portfolio.binhph.am/
+          weight: 50
