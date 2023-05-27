@@ -8,7 +8,7 @@ categories: ["C++"]
 draft: false
 cover:
   image: "/posts/neural-network/images/banner.png" # image path/url
-  alt: "Life" # alt text
+  alt: "Neural Network" # alt text
   relative: true # when using page bundles set this to true
   hidden: false
 ---
@@ -44,7 +44,7 @@ _And... yeah I did get the 5 points_
 
 Below is a **video demo** of the project, in which you can understand what the project is about.
 
-{{< vime 830844766>}}
+{{< vime 830851448>}}
 
 The project is called **Binh's Neural Network**. It is to demonstrate a **Neural Network** Proof Of Concept by teaching a neural network to approximate a mathematical function **y=sin(x)^2**. The project consists of three parts:
 

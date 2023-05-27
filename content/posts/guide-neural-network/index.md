@@ -8,7 +8,7 @@ categories: ["C++"]
 draft: false
 cover:
   image: "/posts/guide-neural-network/images/banner.png" # image path/url
-  alt: "Life" # alt text
+  alt: "Neural Network" # alt text
   relative: true # when using page bundles set this to true
   hidden: false
 ---
