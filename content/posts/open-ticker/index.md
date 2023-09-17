@@ -15,7 +15,7 @@ cover:
 
 # Introduction
 
-![OpenTicker](./images/OpenTicker.png)
+![OpenTicker](./images/banner.png)
 
 **OpenTicker** is an open-source data compilation and analysis tool for stock trading.
 
