@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://binhph.am/posts/neural-network/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/posts/guide-neural-network/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -21,14 +15,8 @@
                 href="https://binhph.am/"
                 />
   </url><url>
-    <loc>https://binhph.am/tags/c&#43;&#43;/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binhph.am/categories/c&#43;&#43;/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://binhph.am/categories/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -40,8 +28,14 @@
                 href="https://binhph.am/categories/"
                 />
   </url><url>
+    <loc>https://binhph.am/posts/open-ticker/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/nextjs/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://binhph.am/posts/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -53,8 +47,20 @@
                 href="https://binhph.am/posts/"
                 />
   </url><url>
+    <loc>https://binhph.am/categories/react/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/reactjs/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/stock/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/stonk/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://binhph.am/tags/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -65,6 +71,24 @@
                 hreflang="en"
                 href="https://binhph.am/tags/"
                 />
+  </url><url>
+    <loc>https://binhph.am/tags/tradingview/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/typescript/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/posts/neural-network/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/posts/guide-neural-network/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binhph.am/categories/c&#43;&#43;/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binhph.am/tags/university-projects/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>

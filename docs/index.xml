@@ -5,7 +5,16 @@
     <link>https://binhph.am/</link>
     <description>Recent content on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing OpenTicker</title>
+      <link>https://binhph.am/posts/open-ticker/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/open-ticker/</guid>
+      <description>Open-soure data compilation and analysis tool for stock trading</description>
+    </item>
+    
     <item>
       <title>[Part 1] Neural Network with a bit of State Machine in C&#43;&#43; from scratch</title>
       <link>https://binhph.am/posts/neural-network/</link>

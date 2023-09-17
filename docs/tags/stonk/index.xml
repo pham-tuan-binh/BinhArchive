@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stonk on Binh&#39;s Archive</title>
+    <link>https://binhph.am/tags/stonk/</link>
+    <description>Recent content in Stonk on Binh&#39;s Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/tags/stonk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing OpenTicker</title>
+      <link>https://binhph.am/posts/open-ticker/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binhph.am/posts/open-ticker/</guid>
+      <description>Open-soure data compilation and analysis tool for stock trading</description>
+    </item>
+    
+  </channel>
+</rss>
