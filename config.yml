@@ -112,5 +112,5 @@ languages:
           weight: 40
         - identifier: portfolio
           name: Portfolio
-          url: https://portfolio.binhph.am/
+          url: https://binhph.am/
           weight: 50
