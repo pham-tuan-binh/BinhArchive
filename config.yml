@@ -1,4 +1,4 @@
-baseURL: "https://binhph.am"
+baseURL: "https://blog.binhph.am"
 title: Binh's Archive
 paginate: 5
 theme: PaperMod
@@ -42,7 +42,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableScrollToTop: true
   comments: false
   hidemeta: false
   hideSummary: true
@@ -108,41 +108,6 @@ languages:
           weight: 30
         - identifier: search
           name: Search
-          url: /search/
-          weight: 40
-        - identifier: portfolio
-          name: Portfolio
-          url: https://portfolio.binhph.am/
-          weight: 50
-
-  vi:
-    languageName: ":vi:"
-    languageAltTitle: Vietnamese
-    weight: 2
-    homeInfoParams:
-      Title: "Chào mừng đến Binh's Archive 👋"
-      Content: >
-        - Mình tên là **Bình**. Mình là một Maker đến từ Hải Phòng, Việt Nam 🇻🇳.
-
-        - Đây là một trang Archive những dự án cá nhân của mình.
-
-        - Nếu các bạn muốn liên hệ với mình, cứ thoải mái bắt chuyện qua những kênh bên dưới nhé.
-    menu:
-      main:
-        - identifier: about
-          name: Giới thiệu
-          url: /about/
-          weight: 10
-        - identifier: categories
-          name: Danh mục
-          url: /categories/
-          weight: 20
-        - identifier: tags
-          name: Thẻ
-          url: /tags/
-          weight: 30
-        - identifier: search
-          name: Tìm kiếm
           url: /search/
           weight: 40
         - identifier: portfolio

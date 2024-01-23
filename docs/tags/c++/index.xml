@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C&#43;&#43; on Binh&#39;s Archive</title>
-    <link>https://binhph.am/tags/c&#43;&#43;/</link>
+    <link>https://blog.binhph.am/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Part 1] Neural Network with a bit of State Machine in C&#43;&#43; from scratch</title>
-      <link>https://binhph.am/posts/neural-network/</link>
+      <link>https://blog.binhph.am/posts/neural-network/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/posts/neural-network/</guid>
+      <guid>https://blog.binhph.am/posts/neural-network/</guid>
       <description>Building a Neural Network from scratch</description>
     </item>
     
     <item>
       <title>[Part 2] Neural Network with a bit of State Machine in C&#43;&#43; from scratch</title>
-      <link>https://binhph.am/posts/guide-neural-network/</link>
+      <link>https://blog.binhph.am/posts/guide-neural-network/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/posts/guide-neural-network/</guid>
+      <guid>https://blog.binhph.am/posts/guide-neural-network/</guid>
       <description>How to build a Neural Network from scratch</description>
     </item>
     
     <item>
       <title>Square(): Creative Coding</title>
-      <link>https://binhph.am/posts/square/</link>
+      <link>https://blog.binhph.am/posts/square/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/posts/square/</guid>
+      <guid>https://blog.binhph.am/posts/square/</guid>
       <description>Immersive Art Experience</description>
     </item>
     
