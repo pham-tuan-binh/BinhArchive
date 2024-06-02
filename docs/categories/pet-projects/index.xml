@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pet Projects on Binh&#39;s Archive</title>
-    <link>http://localhost:1313/categories/pet-projects/</link>
+    <link>https://blog.binhph.am/categories/pet-projects/</link>
     <description>Recent content in Pet Projects on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Feb 2021 10:10:49 -0800</lastBuildDate><atom:link href="http://localhost:1313/categories/pet-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 10:10:49 -0800</lastBuildDate><atom:link href="https://blog.binhph.am/categories/pet-projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

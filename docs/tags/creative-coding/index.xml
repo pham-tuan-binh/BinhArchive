@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Creative Coding on Binh&#39;s Archive</title>
-    <link>http://localhost:1313/tags/creative-coding/</link>
+    <link>https://blog.binhph.am/tags/creative-coding/</link>
     <description>Recent content in Creative Coding on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/tags/creative-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Googly: Creative Coding</title>
-      <link>http://localhost:1313/posts/googly/</link>
+      <link>https://blog.binhph.am/posts/googly/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/googly/</guid>
+      <guid>https://blog.binhph.am/posts/googly/</guid>
       <description>Using p5.js and PoseNet to create digital art</description>
     </item>
     
     <item>
       <title>Square(): Creative Coding</title>
-      <link>http://localhost:1313/posts/square/</link>
+      <link>https://blog.binhph.am/posts/square/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/square/</guid>
+      <guid>https://blog.binhph.am/posts/square/</guid>
       <description>Immersive Art Experience</description>
     </item>
     
     <item>
       <title>LEGO: Creative Coding</title>
-      <link>http://localhost:1313/posts/legos/</link>
+      <link>https://blog.binhph.am/posts/legos/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/legos/</guid>
+      <guid>https://blog.binhph.am/posts/legos/</guid>
       <description>Using Canvas-sketch to create digital art</description>
     </item>
     

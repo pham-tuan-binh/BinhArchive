@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Firmware on Binh&#39;s Archive</title>
-    <link>http://localhost:1313/tags/firmware/</link>
+    <link>https://blog.binhph.am/tags/firmware/</link>
     <description>Recent content in Firmware on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NeoCoat (2): The new NeoCoat</title>
-      <link>http://localhost:1313/posts/neocoat-2/</link>
+      <link>https://blog.binhph.am/posts/neocoat-2/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/neocoat-2/</guid>
+      <guid>https://blog.binhph.am/posts/neocoat-2/</guid>
       <description>A pixel-art display you know you need.</description>
     </item>
     
     <item>
       <title>The history of NeoCoat</title>
-      <link>http://localhost:1313/posts/neocoat-intro/</link>
+      <link>https://blog.binhph.am/posts/neocoat-intro/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/neocoat-intro/</guid>
+      <guid>https://blog.binhph.am/posts/neocoat-intro/</guid>
       <description>A pixel-art display you don&amp;#39;t know you need.</description>
     </item>
     
