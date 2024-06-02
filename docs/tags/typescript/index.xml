@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TypeScript on Binh&#39;s Archive</title>
-    <link>https://blog.binhph.am/tags/typescript/</link>
+    <link>http://localhost:1313/tags/typescript/</link>
     <description>Recent content in TypeScript on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing OpenTicker</title>
-      <link>https://blog.binhph.am/posts/open-ticker/</link>
+      <link>http://localhost:1313/posts/open-ticker/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/open-ticker/</guid>
+      <guid>http://localhost:1313/posts/open-ticker/</guid>
       <description>Open-soure data compilation and analysis tool for stock trading</description>
     </item>
     

@@ -2,232 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Binh&#39;s Archive</title>
-    <link>https://binhph.am/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binhph.am/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NextJS</title>
-      <link>https://binhph.am/tags/nextjs/</link>
+      <link>http://localhost:1313/tags/nextjs/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/nextjs/</guid>
+      <guid>http://localhost:1313/tags/nextjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ReactJS</title>
-      <link>https://binhph.am/tags/reactjs/</link>
+      <link>http://localhost:1313/tags/reactjs/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/reactjs/</guid>
+      <guid>http://localhost:1313/tags/reactjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stock</title>
-      <link>https://binhph.am/tags/stock/</link>
+      <link>http://localhost:1313/tags/stock/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/stock/</guid>
+      <guid>http://localhost:1313/tags/stock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stonk</title>
-      <link>https://binhph.am/tags/stonk/</link>
+      <link>http://localhost:1313/tags/stonk/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/stonk/</guid>
+      <guid>http://localhost:1313/tags/stonk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TradingView</title>
-      <link>https://binhph.am/tags/tradingview/</link>
+      <link>http://localhost:1313/tags/tradingview/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/tradingview/</guid>
+      <guid>http://localhost:1313/tags/tradingview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TypeScript</title>
-      <link>https://binhph.am/tags/typescript/</link>
+      <link>http://localhost:1313/tags/typescript/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/typescript/</guid>
+      <guid>http://localhost:1313/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://binhph.am/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University Projects</title>
-      <link>https://binhph.am/tags/university-projects/</link>
+      <link>http://localhost:1313/tags/university-projects/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/university-projects/</guid>
+      <guid>http://localhost:1313/tags/university-projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://binhph.am/tags/c/</link>
+      <link>http://localhost:1313/tags/c/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/c/</guid>
+      <guid>http://localhost:1313/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creative Coding</title>
-      <link>https://binhph.am/tags/creative-coding/</link>
+      <link>http://localhost:1313/tags/creative-coding/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/creative-coding/</guid>
+      <guid>http://localhost:1313/tags/creative-coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://binhph.am/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/design/</guid>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazon AWS</title>
-      <link>https://binhph.am/tags/amazon-aws/</link>
+      <link>http://localhost:1313/tags/amazon-aws/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/amazon-aws/</guid>
+      <guid>http://localhost:1313/tags/amazon-aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Record Breaking</title>
-      <link>https://binhph.am/tags/record-breaking/</link>
+      <link>http://localhost:1313/tags/record-breaking/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/record-breaking/</guid>
+      <guid>http://localhost:1313/tags/record-breaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>https://binhph.am/tags/template/</link>
+      <link>http://localhost:1313/tags/template/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/template/</guid>
+      <guid>http://localhost:1313/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wrapped</title>
-      <link>https://binhph.am/tags/wrapped/</link>
+      <link>http://localhost:1313/tags/wrapped/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/wrapped/</guid>
+      <guid>http://localhost:1313/tags/wrapped/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenCV</title>
-      <link>https://binhph.am/tags/opencv/</link>
+      <link>http://localhost:1313/tags/opencv/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/opencv/</guid>
+      <guid>http://localhost:1313/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenFramework</title>
-      <link>https://binhph.am/tags/openframework/</link>
+      <link>http://localhost:1313/tags/openframework/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/openframework/</guid>
+      <guid>http://localhost:1313/tags/openframework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://binhph.am/tags/photography/</link>
+      <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/photography/</guid>
+      <guid>http://localhost:1313/tags/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Svelte</title>
-      <link>https://binhph.am/tags/svelte/</link>
+      <link>http://localhost:1313/tags/svelte/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/svelte/</guid>
+      <guid>http://localhost:1313/tags/svelte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon</title>
-      <link>https://binhph.am/tags/hackathon/</link>
+      <link>http://localhost:1313/tags/hackathon/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/hackathon/</guid>
+      <guid>http://localhost:1313/tags/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polaroid</title>
-      <link>https://binhph.am/tags/polaroid/</link>
+      <link>http://localhost:1313/tags/polaroid/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/polaroid/</guid>
+      <guid>http://localhost:1313/tags/polaroid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>8-bit</title>
-      <link>https://binhph.am/tags/8-bit/</link>
+      <title>8-Bit</title>
+      <link>http://localhost:1313/tags/8-bit/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/8-bit/</guid>
+      <guid>http://localhost:1313/tags/8-bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firmware</title>
-      <link>https://binhph.am/tags/firmware/</link>
+      <link>http://localhost:1313/tags/firmware/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/firmware/</guid>
+      <guid>http://localhost:1313/tags/firmware/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NeoCoat</title>
-      <link>https://binhph.am/tags/neocoat/</link>
+      <title>Neocoat</title>
+      <link>http://localhost:1313/tags/neocoat/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/neocoat/</guid>
+      <guid>http://localhost:1313/tags/neocoat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pet Projects</title>
-      <link>https://binhph.am/tags/pet-projects/</link>
+      <link>http://localhost:1313/tags/pet-projects/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://binhph.am/tags/pet-projects/</guid>
+      <guid>http://localhost:1313/tags/pet-projects/</guid>
       <description></description>
     </item>
     

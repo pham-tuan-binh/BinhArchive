@@ -2,25 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pet Projects on Binh&#39;s Archive</title>
-    <link>https://blog.binhph.am/tags/pet-projects/</link>
+    <link>http://localhost:1313/tags/pet-projects/</link>
     <description>Recent content in Pet Projects on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/tags/pet-projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pet-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NeoCoat (2): The new NeoCoat</title>
-      <link>https://blog.binhph.am/posts/neocoat-2/</link>
+      <link>http://localhost:1313/posts/neocoat-2/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/neocoat-2/</guid>
+      <guid>http://localhost:1313/posts/neocoat-2/</guid>
       <description>A pixel-art display you know you need.</description>
     </item>
     
     <item>
       <title>The history of NeoCoat</title>
-      <link>https://blog.binhph.am/posts/neocoat-intro/</link>
+      <link>http://localhost:1313/posts/neocoat-intro/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/neocoat-intro/</guid>
+      <guid>http://localhost:1313/posts/neocoat-intro/</guid>
       <description>A pixel-art display you don&amp;#39;t know you need.</description>
     </item>
     

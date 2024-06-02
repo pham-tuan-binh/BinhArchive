@@ -2,124 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Binh&#39;s Archive</title>
-    <link>https://blog.binhph.am/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing OpenTicker</title>
-      <link>https://blog.binhph.am/posts/open-ticker/</link>
+      <link>http://localhost:1313/posts/open-ticker/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/open-ticker/</guid>
+      <guid>http://localhost:1313/posts/open-ticker/</guid>
       <description>Open-soure data compilation and analysis tool for stock trading</description>
     </item>
     
     <item>
       <title>[Part 1] Neural Network with a bit of State Machine in C&#43;&#43; from scratch</title>
-      <link>https://blog.binhph.am/posts/neural-network/</link>
+      <link>http://localhost:1313/posts/neural-network/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/neural-network/</guid>
+      <guid>http://localhost:1313/posts/neural-network/</guid>
       <description>Building a Neural Network from scratch</description>
     </item>
     
     <item>
       <title>[Part 2] Neural Network with a bit of State Machine in C&#43;&#43; from scratch</title>
-      <link>https://blog.binhph.am/posts/guide-neural-network/</link>
+      <link>http://localhost:1313/posts/guide-neural-network/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/guide-neural-network/</guid>
+      <guid>http://localhost:1313/posts/guide-neural-network/</guid>
       <description>How to build a Neural Network from scratch</description>
     </item>
     
     <item>
       <title>Cellular Automata: Simulating life in C from scratch</title>
-      <link>https://blog.binhph.am/posts/life/</link>
+      <link>http://localhost:1313/posts/life/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/life/</guid>
+      <guid>http://localhost:1313/posts/life/</guid>
       <description>Building the Game of Life from scratch in C</description>
     </item>
     
     <item>
       <title>Googly: Creative Coding</title>
-      <link>https://blog.binhph.am/posts/googly/</link>
+      <link>http://localhost:1313/posts/googly/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/googly/</guid>
+      <guid>http://localhost:1313/posts/googly/</guid>
       <description>Using p5.js and PoseNet to create digital art</description>
     </item>
     
     <item>
       <title>How I became a Certified Amazon AWS Developer Associate at 18</title>
-      <link>https://blog.binhph.am/posts/aws-certified/</link>
+      <link>http://localhost:1313/posts/aws-certified/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/aws-certified/</guid>
+      <guid>http://localhost:1313/posts/aws-certified/</guid>
       <description>The youngest Certified Developer Associate (DVA-C01) in Viet Nam</description>
     </item>
     
     <item>
       <title>Binh&#39;s Wrapped</title>
-      <link>https://blog.binhph.am/posts/wrapped/</link>
+      <link>http://localhost:1313/posts/wrapped/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/wrapped/</guid>
+      <guid>http://localhost:1313/posts/wrapped/</guid>
       <description>2022 Binh&amp;#39;s Wrapped: Spotify Edition</description>
     </item>
     
     <item>
       <title>Square(): Creative Coding</title>
-      <link>https://blog.binhph.am/posts/square/</link>
+      <link>http://localhost:1313/posts/square/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/square/</guid>
+      <guid>http://localhost:1313/posts/square/</guid>
       <description>Immersive Art Experience</description>
     </item>
     
     <item>
       <title>LEGO: Creative Coding</title>
-      <link>https://blog.binhph.am/posts/legos/</link>
+      <link>http://localhost:1313/posts/legos/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/legos/</guid>
+      <guid>http://localhost:1313/posts/legos/</guid>
       <description>Using Canvas-sketch to create digital art</description>
     </item>
     
     <item>
       <title>&#34;365 Days&#34; Photo Album</title>
-      <link>https://blog.binhph.am/posts/365days/</link>
+      <link>http://localhost:1313/posts/365days/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/365days/</guid>
+      <guid>http://localhost:1313/posts/365days/</guid>
       <description>Online Photo Exhibition</description>
     </item>
     
     <item>
       <title>Memory Catalog: Store memories as Polaroid</title>
-      <link>https://blog.binhph.am/posts/memory-catalog/</link>
+      <link>http://localhost:1313/posts/memory-catalog/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/memory-catalog/</guid>
+      <guid>http://localhost:1313/posts/memory-catalog/</guid>
       <description>Online Memory Archive</description>
     </item>
     
     <item>
       <title>NeoCoat (2): The new NeoCoat</title>
-      <link>https://blog.binhph.am/posts/neocoat-2/</link>
+      <link>http://localhost:1313/posts/neocoat-2/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/neocoat-2/</guid>
+      <guid>http://localhost:1313/posts/neocoat-2/</guid>
       <description>A pixel-art display you know you need.</description>
     </item>
     
     <item>
       <title>The history of NeoCoat</title>
-      <link>https://blog.binhph.am/posts/neocoat-intro/</link>
+      <link>http://localhost:1313/posts/neocoat-intro/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/posts/neocoat-intro/</guid>
+      <guid>http://localhost:1313/posts/neocoat-intro/</guid>
       <description>A pixel-art display you don&amp;#39;t know you need.</description>
     </item>
     

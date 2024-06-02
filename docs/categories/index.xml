@@ -2,97 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Binh&#39;s Archive</title>
-    <link>https://blog.binhph.am/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Binh&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.binhph.am/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React</title>
-      <link>https://blog.binhph.am/categories/react/</link>
+      <link>http://localhost:1313/categories/react/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/react/</guid>
+      <guid>http://localhost:1313/categories/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://blog.binhph.am/categories/c&#43;&#43;/</link>
+      <link>http://localhost:1313/categories/c&#43;&#43;/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/categories/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://blog.binhph.am/categories/c/</link>
+      <link>http://localhost:1313/categories/c/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/c/</guid>
+      <guid>http://localhost:1313/categories/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creative Coding</title>
-      <link>https://blog.binhph.am/categories/creative-coding/</link>
+      <link>http://localhost:1313/categories/creative-coding/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/creative-coding/</guid>
+      <guid>http://localhost:1313/categories/creative-coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>https://blog.binhph.am/categories/certification/</link>
+      <link>http://localhost:1313/categories/certification/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/certification/</guid>
+      <guid>http://localhost:1313/categories/certification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://blog.binhph.am/categories/design/</link>
+      <link>http://localhost:1313/categories/design/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/design/</guid>
+      <guid>http://localhost:1313/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>365 Days</title>
-      <link>https://blog.binhph.am/categories/365-days/</link>
+      <link>http://localhost:1313/categories/365-days/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/365-days/</guid>
+      <guid>http://localhost:1313/categories/365-days/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory Catalog</title>
-      <link>https://blog.binhph.am/categories/memory-catalog/</link>
+      <link>http://localhost:1313/categories/memory-catalog/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/memory-catalog/</guid>
+      <guid>http://localhost:1313/categories/memory-catalog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NeoCoat</title>
-      <link>https://blog.binhph.am/categories/neocoat/</link>
+      <link>http://localhost:1313/categories/neocoat/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.binhph.am/categories/neocoat/</guid>
+      <guid>http://localhost:1313/categories/neocoat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pet Projects</title>
-      <link>https://blog.binhph.am/categories/pet-projects/</link>
+      <link>http://localhost:1313/categories/pet-projects/</link>
       <pubDate>Tue, 23 Feb 2021 10:10:49 -0800</pubDate>
       
-      <guid>https://blog.binhph.am/categories/pet-projects/</guid>
+      <guid>http://localhost:1313/categories/pet-projects/</guid>
       <description>Series of Binh&amp;#39;s Pet Projects.</description>
     </item>
     
